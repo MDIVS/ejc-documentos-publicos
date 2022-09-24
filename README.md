@@ -1,0 +1,1 @@
+Neste repositório se encontram os documentos e arquivos públicos do Encontro de Jovens Cientistas
